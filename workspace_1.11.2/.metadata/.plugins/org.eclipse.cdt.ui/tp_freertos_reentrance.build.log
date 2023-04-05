@@ -1,0 +1,10 @@
+11:57:03 **** Incremental Build of configuration Debug for project tp_freertos_reentrance ****
+make -j16 all 
+arm-none-eabi-size   tp_freertos_reentrance.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23508	    124	  18020	  41652	   a2b4	tp_freertos_reentrance.elf
+Finished building: default.size.stdout
+ 
+
+11:57:04 Build Finished. 0 errors, 0 warnings. (took 635ms)
+
