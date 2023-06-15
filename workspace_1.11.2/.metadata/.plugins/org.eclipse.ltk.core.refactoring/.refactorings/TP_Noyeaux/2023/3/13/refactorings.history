@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;TP_Noyeaux/Core/Src/main.c&apos; to &apos;main_1_takegivesem.c&apos;" description="Rename resource &apos;main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/main.c" name="main_1_takegivesem.c" stamp="1680247301983" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;TP_Noyeaux/Core/Src/main.c&apos; to &apos;main_2_notifytakegive.c&apos;" description="Rename resource &apos;main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/main.c" name="main_2_notifytakegive.c" stamp="1680253308117" updateReferences="true"/>
-</session>
