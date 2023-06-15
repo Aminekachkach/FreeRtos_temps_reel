@@ -1,0 +1,8 @@
+main_2_notifytakegive.c:44:6:USART1_IRQHandler	2
+main_2_notifytakegive.c:93:6:taskGive	1
+main_2_notifytakegive.c:106:6:taskTake	1
+main_2_notifytakegive.c:120:5:__io_putchar	1
+main_2_notifytakegive.c:124:5:main	1
+main_2_notifytakegive.c:203:6:SystemClock_Config	4
+main_2_notifytakegive.c:263:6:HAL_TIM_PeriodElapsedCallback	2
+main_2_notifytakegive.c:280:6:Error_Handler	1

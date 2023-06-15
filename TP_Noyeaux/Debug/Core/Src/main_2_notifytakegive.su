@@ -1,0 +1,8 @@
+../Core/Src/main_2_notifytakegive.c:44:6:USART1_IRQHandler	16	static,ignoring_inline_asm
+../Core/Src/main_2_notifytakegive.c:93:6:taskGive	16	static
+../Core/Src/main_2_notifytakegive.c:106:6:taskTake	16	static
+../Core/Src/main_2_notifytakegive.c:120:5:__io_putchar	16	static
+../Core/Src/main_2_notifytakegive.c:124:5:main	24	static
+../Core/Src/main_2_notifytakegive.c:203:6:SystemClock_Config	88	static
+../Core/Src/main_2_notifytakegive.c:263:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main_2_notifytakegive.c:280:6:Error_Handler	4	static,ignoring_inline_asm
